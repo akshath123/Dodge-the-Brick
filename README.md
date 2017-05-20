@@ -6,4 +6,6 @@ This Game Developed in C++ using Graphics library for dodging the bricks falling
 This project was developed in my 1st semester for course *Object Oriented Programming in C++*
 
 # Video demonstration of the game is given [here]()
+
+### Note: This project works only for windows environment and in Turbo C++
  
