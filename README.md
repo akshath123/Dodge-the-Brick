@@ -5,5 +5,5 @@ This Game Developed in C++ using Graphics library for dodging the bricks falling
 ## Motivation behind the project
 This project was developed in my 1st semester for course *Object Oriented Programming in C++*
 
-#Video demonstration of the game is given [here]()
+# Video demonstration of the game is given [here]()
  
